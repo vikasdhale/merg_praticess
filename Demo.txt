@@ -5,6 +5,9 @@ class abc {
    public satic void m1(){
 
     System.out.println("hello");
+
+
+  java concept of the day
    }
 
 
